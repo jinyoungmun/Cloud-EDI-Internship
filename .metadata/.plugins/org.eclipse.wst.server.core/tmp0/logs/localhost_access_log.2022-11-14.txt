@@ -1,0 +1,4 @@
+127.0.0.1 - - [14/Nov/2022:14:03:07 +0900] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [14/Nov/2022:14:03:07 +0900] "GET /SOAPExampleClient/WEB-INF/classes/service/PersonServiceImplProxy.java HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [14/Nov/2022:14:03:07 +0900] "GET /favicon.ico HTTP/1.1" 404 1087
+0:0:0:0:0:0:0:1 - - [14/Nov/2022:14:03:15 +0900] "GET /SOAPExample/services/PersonServiceImpl?wsdl HTTP/1.1" 200 6800

@@ -1,0 +1,275 @@
+2022-11-08 14:40:24,701 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-08 14:41:10,079 [Worker-17: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.4.2.200908121739.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:11,055 [Worker-4: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.0.200909151631.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:11,729 [Worker-14: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.0.200909151631.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:12,255 [Worker-20: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.1.200910061011.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:12,900 [Worker-8: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.1.200910061011.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:14,528 [Worker-6: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.6.1.201004082044.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:18,241 [Worker-12: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.6.3.201004231243.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:21,789 [Worker-25: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.7.1.201005191610.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:22,414 [Worker-7: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.7.1.201005191610.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:23,011 [Worker-34: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.7.2.201006211643.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-11-08 14:41:39,324 [Worker-14: https://download.oracle.com/otn_software/oepe/library/oracle-maf-2-rt/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.oracle.com:443
+2022-11-08 14:41:39,324 [Worker-10: https://download.eclipse.org/jetty/updates/jetty-wtp/1.0.0.201107011148/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2022-11-08 14:42:24,531 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-08 14:52:09,273 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-08 14:52:09,297 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-08 14:52:09,325 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5a16d90e{/wse,null,AVAILABLE}
+2022-11-08 14:52:09,417 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@76a05a8a{HTTP/1.1, (http/1.1)}{0.0.0.0:58229}
+2022-11-08 14:52:09,433 [main] INFO  org.eclipse.jetty.server.Server - Started Server@47c782c8{STARTING}[10.0.11,sto=0] @626866ms
+2022-11-08 15:11:11,365 [Framework stop - Equinox Container: 09b3cb3c-e211-46a0-b8b7-046dece7123f] INFO  org.eclipse.jetty.server.Server - Stopped Server@47c782c8{STOPPING}[10.0.11,sto=0]
+2022-11-08 15:11:11,372 [Framework stop - Equinox Container: 09b3cb3c-e211-46a0-b8b7-046dece7123f] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@76a05a8a{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-08 15:11:11,408 [Framework stop - Equinox Container: 09b3cb3c-e211-46a0-b8b7-046dece7123f] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5a16d90e{/wse,null,STOPPED}
+2022-11-08 16:11:57,480 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-08 17:30:38,774 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-08 17:30:38,789 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-08 17:30:38,808 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1aa49a47{/wse,null,AVAILABLE}
+2022-11-08 17:30:38,827 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6555edb3{HTTP/1.1, (http/1.1)}{0.0.0.0:63171}
+2022-11-08 17:30:38,837 [main] INFO  org.eclipse.jetty.server.Server - Started Server@32777da3{STARTING}[10.0.11,sto=0] @4784678ms
+2022-11-08 17:58:13,331 [Framework stop - Equinox Container: 51ff5c87-716e-45d8-93f3-866e041caec6] INFO  org.eclipse.jetty.server.Server - Stopped Server@32777da3{STOPPING}[10.0.11,sto=0]
+2022-11-08 17:58:13,335 [Framework stop - Equinox Container: 51ff5c87-716e-45d8-93f3-866e041caec6] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6555edb3{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-08 17:58:13,385 [Framework stop - Equinox Container: 51ff5c87-716e-45d8-93f3-866e041caec6] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1aa49a47{/wse,null,STOPPED}
+2022-11-08 17:59:43,413 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-08 22:08:50,123 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-08 22:58:31,960 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 08:48:31,808 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 09:24:47,018 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 10:00:27,885 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 10:03:36,474 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-09 10:03:36,495 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-09 10:03:36,520 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5544e0d9{/wse,null,AVAILABLE}
+2022-11-09 10:03:36,541 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7e2e0b34{HTTP/1.1, (http/1.1)}{0.0.0.0:52374}
+2022-11-09 10:03:36,551 [main] INFO  org.eclipse.jetty.server.Server - Started Server@38e2b7f4{STARTING}[10.0.11,sto=0] @201816ms
+2022-11-09 10:10:40,379 [Framework stop - Equinox Container: 3f9e55dd-95ed-4a1f-abdc-675ea8665342] INFO  org.eclipse.jetty.server.Server - Stopped Server@38e2b7f4{STOPPING}[10.0.11,sto=0]
+2022-11-09 10:10:40,383 [Framework stop - Equinox Container: 3f9e55dd-95ed-4a1f-abdc-675ea8665342] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7e2e0b34{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-09 10:10:40,429 [Framework stop - Equinox Container: 3f9e55dd-95ed-4a1f-abdc-675ea8665342] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5544e0d9{/wse,null,STOPPED}
+2022-11-09 10:14:03,226 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 10:15:14,468 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 10:16:31,553 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 10:18:38,990 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 10:55:29,794 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 11:01:07,340 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 11:06:44,273 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-09 11:06:44,290 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-09 11:06:44,309 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5319602f{/wse,null,AVAILABLE}
+2022-11-09 11:06:44,331 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@61036775{HTTP/1.1, (http/1.1)}{0.0.0.0:54051}
+2022-11-09 11:06:44,340 [main] INFO  org.eclipse.jetty.server.Server - Started Server@66faa93d{STARTING}[10.0.11,sto=0] @362623ms
+2022-11-09 12:30:22,435 [Framework stop - Equinox Container: 2c15ca65-525a-4542-82d5-3189eda202fc] INFO  org.eclipse.jetty.server.Server - Stopped Server@66faa93d{STOPPING}[10.0.11,sto=0]
+2022-11-09 12:30:22,438 [Framework stop - Equinox Container: 2c15ca65-525a-4542-82d5-3189eda202fc] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@61036775{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-09 12:30:22,491 [Framework stop - Equinox Container: 2c15ca65-525a-4542-82d5-3189eda202fc] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5319602f{/wse,null,STOPPED}
+2022-11-09 12:30:37,545 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 13:22:47,522 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 13:37:54,126 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 13:46:29,672 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-09 13:56:38,468 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-09 13:56:38,486 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-09 13:56:38,506 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@31c666f4{/wse,null,AVAILABLE}
+2022-11-09 13:56:38,527 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@110ec379{HTTP/1.1, (http/1.1)}{0.0.0.0:58014}
+2022-11-09 13:56:38,538 [main] INFO  org.eclipse.jetty.server.Server - Started Server@3f415ee6{STARTING}[10.0.11,sto=0] @621471ms
+2022-11-09 13:56:49,654 [qtp1914896970-191] WARN  o.eclipse.jetty.server.HttpChannel - /wse/wsdl_content.jsp
+org.apache.jasper.JasperException: java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:164) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1457) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:159) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:67) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.dispatch(ProxyServlet.java:147) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.preprocess(ProxyServlet.java:115) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:104) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:308) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1571) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[na:na]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1378) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1544) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[na:na]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1300) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[na:na]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[na:na]
+	at org.eclipse.jetty.server.Server.handle(Server.java:562) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$0(HttpChannel.java:505) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:762) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:497) ~[na:na]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:282) ~[na:na]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:319) ~[na:na]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100) ~[na:na]
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53) ~[na:na]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:412) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:381) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:268) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.lambda$new$0(AdaptiveExecutionStrategy.java:138) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:407) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:894) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1038) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.base/java.util.ArrayList.addAll(ArrayList.java:670) ~[na:na]
+	at org.eclipse.jst.ws.internal.cxf.consumption.core.locator.CXFWebServiceLocator.getWebServices(CXFWebServiceLocator.java:52) ~[na:na]
+	at org.eclipse.jst.ws.internal.cxf.consumption.core.locator.CXFWebServiceLocator.getWebServices(CXFWebServiceLocator.java:43) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategoryId(WebServiceFinder.java:180) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategoryId(WebServiceFinder.java:148) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategory(WebServiceFinder.java:115) ~[na:na]
+	at org.apache.jsp.wsdl_005fcontent_jsp._jspService(org.apache.jsp.wsdl_005fcontent_jsp:256) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 44 common frames omitted
+2022-11-09 13:56:53,549 [qtp1914896970-200] WARN  o.eclipse.jetty.server.HttpChannel - /wse/wsdl_content.jsp
+org.apache.jasper.JasperException: java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:164) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1457) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:159) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:67) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.dispatch(ProxyServlet.java:147) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.preprocess(ProxyServlet.java:115) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:104) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:308) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1571) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[na:na]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1378) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1544) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[na:na]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1300) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[na:na]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[na:na]
+	at org.eclipse.jetty.server.Server.handle(Server.java:562) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$0(HttpChannel.java:505) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:762) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:497) ~[na:na]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:282) ~[na:na]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:319) ~[na:na]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100) ~[na:na]
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53) ~[na:na]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:412) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:381) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:268) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.lambda$new$0(AdaptiveExecutionStrategy.java:138) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:407) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:894) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1038) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.base/java.util.ArrayList.addAll(ArrayList.java:670) ~[na:na]
+	at org.eclipse.jst.ws.internal.cxf.consumption.core.locator.CXFWebServiceLocator.getWebServices(CXFWebServiceLocator.java:52) ~[na:na]
+	at org.eclipse.jst.ws.internal.cxf.consumption.core.locator.CXFWebServiceLocator.getWebServices(CXFWebServiceLocator.java:43) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategoryId(WebServiceFinder.java:180) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategoryId(WebServiceFinder.java:148) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategory(WebServiceFinder.java:115) ~[na:na]
+	at org.apache.jsp.wsdl_005fcontent_jsp._jspService(org.apache.jsp.wsdl_005fcontent_jsp:256) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 44 common frames omitted
+2022-11-09 13:56:53,691 [qtp1914896970-191] WARN  o.eclipse.jetty.server.HttpChannel - /wse/wsdl_content.jsp
+org.apache.jasper.JasperException: java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:164) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1457) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:159) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:67) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.dispatch(ProxyServlet.java:147) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.preprocess(ProxyServlet.java:115) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:104) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:308) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1571) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[na:na]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1378) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1544) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[na:na]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1300) ~[na:na]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[na:na]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[na:na]
+	at org.eclipse.jetty.server.Server.handle(Server.java:562) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$0(HttpChannel.java:505) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:762) ~[na:na]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:497) ~[na:na]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:282) ~[na:na]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:319) ~[na:na]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100) ~[na:na]
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53) ~[na:na]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:412) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:381) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:268) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.lambda$new$0(AdaptiveExecutionStrategy.java:138) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:407) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:894) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1038) ~[org.eclipse.jetty.util_10.0.11.jar:10.0.11]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.base/java.util.ArrayList.addAll(ArrayList.java:670) ~[na:na]
+	at org.eclipse.jst.ws.internal.cxf.consumption.core.locator.CXFWebServiceLocator.getWebServices(CXFWebServiceLocator.java:52) ~[na:na]
+	at org.eclipse.jst.ws.internal.cxf.consumption.core.locator.CXFWebServiceLocator.getWebServices(CXFWebServiceLocator.java:43) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategoryId(WebServiceFinder.java:180) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategoryId(WebServiceFinder.java:148) ~[na:na]
+	at org.eclipse.wst.ws.internal.wsfinder.WebServiceFinder.getWebServicesByCategory(WebServiceFinder.java:115) ~[na:na]
+	at org.apache.jsp.wsdl_005fcontent_jsp._jspService(org.apache.jsp.wsdl_005fcontent_jsp:256) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[na:na]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 44 common frames omitted
+2022-11-09 14:10:58,966 [Framework stop - Equinox Container: 3fc4e83e-a899-41d3-893a-f438a9e10e74] INFO  org.eclipse.jetty.server.Server - Stopped Server@3f415ee6{STOPPING}[10.0.11,sto=0]
+2022-11-09 14:10:58,971 [Framework stop - Equinox Container: 3fc4e83e-a899-41d3-893a-f438a9e10e74] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@110ec379{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-09 14:10:59,007 [Framework stop - Equinox Container: 3fc4e83e-a899-41d3-893a-f438a9e10e74] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@31c666f4{/wse,null,STOPPED}
+2022-11-09 14:11:42,951 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 14:22:10,102 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-09 14:22:10,126 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-09 14:22:10,146 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@46d7ae3c{/wse,null,AVAILABLE}
+2022-11-09 14:22:10,166 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6b18d4c8{HTTP/1.1, (http/1.1)}{0.0.0.0:59145}
+2022-11-09 14:22:10,177 [main] INFO  org.eclipse.jetty.server.Server - Started Server@30f0a3f5{STARTING}[10.0.11,sto=0] @649899ms
+2022-11-09 15:47:12,373 [Framework stop - Equinox Container: 6200d8e7-2d58-4036-a994-3a92342364f3] INFO  org.eclipse.jetty.server.Server - Stopped Server@30f0a3f5{STOPPING}[10.0.11,sto=0]
+2022-11-09 15:47:12,378 [Framework stop - Equinox Container: 6200d8e7-2d58-4036-a994-3a92342364f3] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6b18d4c8{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-09 15:47:12,418 [Framework stop - Equinox Container: 6200d8e7-2d58-4036-a994-3a92342364f3] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@46d7ae3c{/wse,null,STOPPED}
+2022-11-09 15:47:23,709 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 16:34:11,416 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 16:35:56,842 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-10 02:08:37,232 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-10 17:14:58,812 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-14 14:02:47,363 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-16 09:23:03,116 [Worker-37: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-16 10:16:40,546 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.5+9-LTS-191
+2022-11-16 10:16:40,573 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-11-16 10:16:40,600 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6a11b2d4{/wse,null,AVAILABLE}
+2022-11-16 10:16:40,621 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4aae3648{HTTP/1.1, (http/1.1)}{0.0.0.0:51714}
+2022-11-16 10:16:40,634 [main] INFO  org.eclipse.jetty.server.Server - Started Server@1aa70166{STARTING}[10.0.11,sto=0] @4478475ms
+2022-11-16 13:35:50,029 [Framework stop - Equinox Container: 12b7a7e2-f8bb-486f-9b14-4073bc0153c7] INFO  org.eclipse.jetty.server.Server - Stopped Server@1aa70166{STOPPING}[10.0.11,sto=0]
+2022-11-16 13:35:50,035 [Framework stop - Equinox Container: 12b7a7e2-f8bb-486f-9b14-4073bc0153c7] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4aae3648{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-11-16 13:35:50,083 [Framework stop - Equinox Container: 12b7a7e2-f8bb-486f-9b14-4073bc0153c7] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6a11b2d4{/wse,null,STOPPED}
+2022-11-16 15:45:28,483 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-16 15:48:46,639 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-16 17:30:54,802 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
